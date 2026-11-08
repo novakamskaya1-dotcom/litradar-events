@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T21:24:22.133885+00:00",
+  "generated_at": "2026-11-08T00:24:05.440876+00:00",
   "timezone": "Europe/Moscow",
   "from": "2026-11-08",
   "to": "2026-12-20",
   "status": "partial",
-  "checked_source_count": 107,
-  "unavailable_source_count": 1,
+  "checked_source_count": 112,
+  "unavailable_source_count": 2,
   "event_count": 47,
   "refresh_interval_hours": 3,
   "notes": [
