@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T03:23:28.889829+00:00",
+  "generated_at": "2026-11-23T06:24:33.685595+00:00",
   "timezone": "Europe/Moscow",
   "from": "2026-11-23",
   "to": "2027-01-04",
   "status": "partial",
   "checked_source_count": 149,
   "unavailable_source_count": 1,
-  "event_count": 44,
+  "event_count": 45,
   "refresh_interval_hours": 3,
   "notes": [
     "Только анонсы, прочитанные на открытых страницах Telegram без авторизации.",
@@ -605,6 +605,30 @@
       "dates_in_window": [
         "2026-11-26",
         "2026-12-06"
+      ],
+      "registration_url": "",
+      "city_status": "must_verify",
+      "event_status": "must_verify",
+      "registration_status": "not_checked"
+    },
+    {
+      "id": "92a2be493ad12953bdd3da0b99f12c1c7f83da56df4c5dc7e7415bb692320395",
+      "source_title": "Игра слов | Люди и книги",
+      "published_at": "2026-11-23T04:44:32+00:00",
+      "dates_detected": [
+        "2026-11-26"
+      ],
+      "time_detected": "19:00",
+      "venue_detected": "",
+      "event_types": [
+        "презентация"
+      ],
+      "text": "В четверг, 26 ноября, приглашаем на встречу с доктором философских наук Сергеем Ячиным и презентацию книги «Критика и оправдание эстетического опыта, или о радости собственно человеческой жизни».\nНовая работа Сергея Евгеньевича посвящена вопросу о парадоксальном единстве эстетического опыта, который пронизывает всю человеческую жизнь.\nПобеседовать о книге и обменяться вопросами приходите 26 ноября в 19:00. Вход свободный, книга уже в продаже!",
+      "sources": [
+        "https://t.me/igraslovbookstore/10355"
+      ],
+      "dates_in_window": [
+        "2026-11-26"
       ],
       "registration_url": "",
       "city_status": "must_verify",
